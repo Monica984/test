@@ -1,53 +1,13 @@
+
 <!DOCTYPE html>
-<html lang="en-US">
-  <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-
-<!-- Begin Jekyll SEO tag v2.8.0 -->
-<title>NDRF Website</title>
-<meta name="generator" content="Jekyll v3.10.0" />
-<meta property="og:title" content="NDRF Website" />
-<meta property="og:locale" content="en_US" />
-<link rel="canonical" href="https://monica984.github.io/NDRF Website/" />
-<meta property="og:url" content="https://monica984.github.io/NDRF Website/" />
-<meta property="og:site_name" content="NDRF Website" />
-<meta property="og:type" content="website" />
-<meta name="twitter:card" content="summary" />
-<meta property="twitter:title" content="NDRF Website" />
-<script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebSite","headline":"NDRF Website","name":"NDRF Website","url":"https://monica984.github.io/NDRF Website/"}</script>
-<!-- End Jekyll SEO tag -->
-
-    <link rel="stylesheet" href="/NDRF Website/assets/css/style.css?v=a025712a231cc868f7c677c02c36893c1731066e">
-    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
-
-<!-- Setup Google Analytics -->
-
-
-
-<!-- You can set your favicon here -->
-<!-- link rel="shortcut icon" type="image/x-icon" href="/NDRF Website/favicon.ico" -->
-
-<!-- end custom head snippets -->
-
-  </head>
-  <body>
-    <div class="container-lg px-3 my-5 markdown-body">
-      
-      <h1><a href="https://monica984.github.io/NDRF Website/">NDRF Website</a></h1>
-      
-
-      <!-- <!DOCTYPE html> -->
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>NDRF — Interactive Guide</title>
   <meta name="description" content="Interactive, single‑file website about India's National Disaster Response Force (NDRF): mission, preparedness tips, a battalion locator, and a quiz." />
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="" />
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&amp;display=swap" rel="stylesheet" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap" rel="stylesheet">
   <style>
     :root {
       --bg: #0f172a;           /* slate-900 */
@@ -263,11 +223,11 @@
           <div class="card">
             <h3>What they do</h3>
             <ul>
-              <li>Urban Search &amp; Rescue (collapsed structures, confined spaces)</li>
-              <li>Flood &amp; Cyclone response (swift‑water rescue, evacuation)</li>
+              <li>Urban Search & Rescue (collapsed structures, confined spaces)</li>
+              <li>Flood & Cyclone response (swift‑water rescue, evacuation)</li>
               <li>CBRN incident response (Chemical, Biological, Radiological, Nuclear)</li>
-              <li>Medical first response &amp; relief logistics</li>
-              <li>Community awareness &amp; joint mock drills</li>
+              <li>Medical first response & relief logistics</li>
+              <li>Community awareness & joint mock drills</li>
             </ul>
             <div class="kpi">
               <div class="item"><div class="num" id="kpiBattalions">16</div><div class="lbl">Battalions*</div></div>
@@ -302,14 +262,14 @@
               <desc id="mapDesc">A simplified canvas with state-like contours and clickable dots that open details.</desc>
               <defs>
                 <radialGradient id="bggrad" cx="50%" cy="40%" r="70%">
-                  <stop offset="0%" stop-color="rgba(37,99,235,.10)" />
-                  <stop offset="100%" stop-color="rgba(249,115,22,.06)" />
+                  <stop offset="0%" stop-color="rgba(37,99,235,.10)"/>
+                  <stop offset="100%" stop-color="rgba(249,115,22,.06)"/>
                 </radialGradient>
               </defs>
-              <rect width="100%" height="100%" rx="22" fill="url(#bggrad)" />
+              <rect width="100%" height="100%" rx="22" fill="url(#bggrad)"/>
               <!-- Decorative landmass blobs -->
-              <path d="M90 520 C 110 470, 200 450, 260 430 C 330 410, 390 360, 420 310 C 450 260, 430 190, 360 160 C 290 130, 220 130, 170 180 C 130 220, 110 260, 110 320 C 110 400, 60 470, 90 520 Z" fill="rgba(255,255,255,.06)" />
-              <path d="M360 650 C 400 600, 470 570, 500 520 C 540 470, 520 420, 470 410 C 430 400, 400 420, 380 450 C 360 490, 320 520, 300 560 C 280 600, 300 640, 360 650 Z" fill="rgba(255,255,255,.05)" />
+              <path d="M90 520 C 110 470, 200 450, 260 430 C 330 410, 390 360, 420 310 C 450 260, 430 190, 360 160 C 290 130, 220 130, 170 180 C 130 220, 110 260, 110 320 C 110 400, 60 470, 90 520 Z" fill="rgba(255,255,255,.06)"/>
+              <path d="M360 650 C 400 600, 470 570, 500 520 C 540 470, 520 420, 470 410 C 430 400, 400 420, 380 450 C 360 490, 320 520, 300 560 C 280 600, 300 640, 360 650 Z" fill="rgba(255,255,255,.05)"/>
 
               <!-- Markers injected by JS -->
               <g id="markers"></g>
@@ -336,7 +296,7 @@
         <h2>Disaster Safety Tips</h2>
         <p class="sub">Quick guidance for common hazards. Expand each item.</p>
         <div class="accordion" id="accordion">
-          <div class="acc-item" open="">
+          <div class="acc-item" open>
             <button class="acc-btn" aria-expanded="true">Floods <span>▾</span></button>
             <div class="acc-panel">
               <ul>
@@ -347,7 +307,7 @@
             </div>
           </div>
           <div class="acc-item">
-            <button class="acc-btn" aria-expanded="false">Cyclones &amp; Strong Winds <span>▾</span></button>
+            <button class="acc-btn" aria-expanded="false">Cyclones & Strong Winds <span>▾</span></button>
             <div class="acc-panel">
               <ul>
                 <li>Secure windows/doors; bring loose items indoors.</li>
@@ -421,21 +381,21 @@
       <div class="container">
         <h2>Contact / Feedback</h2>
         <p class="sub">Have a suggestion or need to request an update? Send a message.</p>
-        <form id="contactForm" novalidate="">
+        <form id="contactForm" novalidate>
           <div class="grid grid-2">
             <div>
               <label for="name">Name</label>
-              <input id="name" name="name" required="" placeholder="Your name" />
+              <input id="name" name="name" required placeholder="Your name" />
             </div>
             <div>
               <label for="email">Email</label>
-              <input id="email" name="email" type="email" required="" placeholder="you@example.com" />
+              <input id="email" name="email" type="email" required placeholder="you@example.com" />
             </div>
           </div>
           <div class="grid grid-2">
             <div>
               <label for="topic">Topic</label>
-              <select id="topic" name="topic" required="">
+              <select id="topic" name="topic" required>
                 <option value="">Choose one</option>
                 <option>Website feedback</option>
                 <option>Content update</option>
@@ -449,10 +409,10 @@
           </div>
           <div>
             <label for="msg">Message</label>
-            <textarea id="msg" name="msg" rows="5" required="" placeholder="Write your message..."></textarea>
+            <textarea id="msg" name="msg" rows="5" required placeholder="Write your message..."></textarea>
           </div>
           <div style="display:flex; align-items:center; gap:10px;">
-            <input type="checkbox" id="consent" required="" />
+            <input type="checkbox" id="consent" required />
             <label for="consent">I consent to having this message processed for a reply.</label>
           </div>
           <button class="btn" type="submit">Send</button>
@@ -673,12 +633,4 @@
     };
   </script>
 </body>
-</html>
-
-
-      
-    </div>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
-    <script>anchors.add();</script>
-  </body>
 </html>
