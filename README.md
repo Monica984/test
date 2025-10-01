@@ -6,21 +6,21 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
 <!-- Begin Jekyll SEO tag v2.8.0 -->
-<title>NDRF_Website</title>
+<title>NDRF Website</title>
 <meta name="generator" content="Jekyll v3.10.0" />
-<meta property="og:title" content="NDRF_Website" />
+<meta property="og:title" content="NDRF Website" />
 <meta property="og:locale" content="en_US" />
-<link rel="canonical" href="https://monica984.github.io/NDRF_Website/" />
-<meta property="og:url" content="https://monica984.github.io/NDRF_Website/" />
-<meta property="og:site_name" content="NDRF_Website" />
+<link rel="canonical" href="https://monica984.github.io/NDRF Website/" />
+<meta property="og:url" content="https://monica984.github.io/NDRF Website/" />
+<meta property="og:site_name" content="NDRF Website" />
 <meta property="og:type" content="website" />
 <meta name="twitter:card" content="summary" />
-<meta property="twitter:title" content="NDRF_Website" />
+<meta property="twitter:title" content="NDRF Website" />
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebSite","headline":"NDRF_Website","name":"NDRF_Website","url":"https://monica984.github.io/NDRF_Website/"}</script>
+{"@context":"https://schema.org","@type":"WebSite","headline":"NDRF Website","name":"NDRF Website","url":"https://monica984.github.io/NDRF Website/"}</script>
 <!-- End Jekyll SEO tag -->
 
-    <link rel="stylesheet" href="/NDRF_Website/assets/css/style.css?v=a025712a231cc868f7c677c02c36893c1731066e">
+    <link rel="stylesheet" href="/NDRF Website/assets/css/style.css?v=a025712a231cc868f7c677c02c36893c1731066e">
     <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
 
 <!-- Setup Google Analytics -->
@@ -28,7 +28,7 @@
 
 
 <!-- You can set your favicon here -->
-<!-- link rel="shortcut icon" type="image/x-icon" href="/NDRF_Website/favicon.ico" -->
+<!-- link rel="shortcut icon" type="image/x-icon" href="/NDRF Website/favicon.ico" -->
 
 <!-- end custom head snippets -->
 
@@ -36,7 +36,7 @@
   <body>
     <div class="container-lg px-3 my-5 markdown-body">
       
-      <h1><a href="https://monica984.github.io/NDRF_Website/">NDRF_Website</a></h1>
+      <h1><a href="https://monica984.github.io/NDRF Website/">NDRF Website</a></h1>
       
 
       <!-- <!DOCTYPE html> -->
